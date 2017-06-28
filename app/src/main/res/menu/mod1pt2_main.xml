@@ -1,0 +1,79 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tinnicure.Module2">
+
+    <item
+        android:id="@+id/home_page"
+        android:orderInCategory="100"
+        android:title="Menu"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/house"/>
+    <item
+        android:id="@+id/Page1"
+        android:orderInCategory="101"
+        android:title="       Page 1 out of 11"
+
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page2"
+        android:orderInCategory="102"
+        android:title="       Page 2 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page3"
+        android:orderInCategory="103"
+        android:title="       Page 3 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page4"
+        android:orderInCategory="104"
+        android:title="       Page 4 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page5"
+        android:orderInCategory="105"
+        android:title="       Page 5 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page6"
+        android:orderInCategory="106"
+        android:title="       Page 6 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page7"
+        android:orderInCategory="107"
+        android:title="       Page 7 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page8"
+        android:orderInCategory="108"
+        android:title="       Page 8 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page9"
+        android:orderInCategory="109"
+        android:title="       Page 9 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page10"
+        android:orderInCategory="110"
+        android:title="       Page 10 out of 11"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page11"
+        android:orderInCategory="111"
+        android:title="       Page 11 out of 11"
+        app:showAsAction="never"
+        />
+</menu>

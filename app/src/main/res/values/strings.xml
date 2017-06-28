@@ -1,0 +1,1631 @@
+<resources>
+    <string name="app_name">Tinnicure</string>
+    <string name="action_settings">Settings</string>
+    <string name="mechoftin">Mechanism of Tinnitus</string>
+    <string name="cochlea">The ear is a fairly complex organ that converts sound waves
+into brain signals. Cochlea (inner ear hearing organ), is a
+snail like structure that does this conversion. The cochlea
+works by transmitting different frequencies from the point
+where it receives the frequency to the corresponding point in
+the brain. The brain and cochlea are arranged exactly alike,
+with the frequencies (pitches) that are next to each other on
+the cochlea being exactly next to each other in the brain as
+well.</string>
+    <string name="ear_2">Tinnitus is caused when a particular frequency range in the
+cochlea is damaged and no longer sends information to the
+brain. This may seem strange at first as tinnitus is caused
+by the brain NOT receiving signals rather than receiving too
+much.</string>
+    <string name="brain">Your brain is incredible and is very, very good at reusing
+space. For example, if you are blind your brain will often
+convert the areas traditionally used for image processing to
+instead process extra audio, smell, and taste sensations. In
+the case of tinnitus, your brain quickly recognizes that you
+no longer have a use for the space reserved for the
+frequencies that are damaged in your cochlea, so it reuses
+the space for other frequencies. The frequencies near the
+damaged frequencies are given extra processing power. So
+they become better at detecting patterns and also tend to
+spontaneously be more active. Unfortunately, that means
+they create the perception of the sound by having too much
+activity. The rest of the brain sees that there is activity in the
+hearing part and it assumes there is a sound there. This
+creates the perception of ringing.</string>
+    <string name="help">This is where sound therapy can help.</string>
+    <string name="goal">Goals of Sound Therapy</string>
+    <string name="soundther">•Sound therapy in tinnitus
+management is the strategy of
+presenting an external sound to
+mask the perceived sound in
+the ear, tinnitus.\n\n•Listening to sound therapy will
+make your tinnitus less
+noticeable. Using sound
+therapy in the long term is
+thought to potentially rewire the
+pathological neuronal pathways
+that are responsible for the
+perception of tinnitus.</string>
+    <string name="types">Types of Sound Therapy</string>
+    <string name="typesndther">•Generic (non-customized) masking efforts have
+presented broadband noises, most typically white
+noise. These noises usually sound like the rain or a
+fan. Despite being helpful, they don’t allow the user to
+hear other sounds because they cover their entire
+hearing spectrum.\n\n•Customized sound therapy is tailored based on your
+hearing status and tinnitus pitch match. The
+advantage is that the amount of acoustic energy
+required for masking is significantly reduced.</string>
+    <string name="cust">Customized Sound Therapy</string>
+    <string name="custsndther">•After you receive your customized sound therapy, we
+would like you to start listening to the provided sound
+therapy for at least 2 hours a day. You can use it
+during the times that your tinnitus bothers you or
+when sleeping.\n\n•Please use the sound therapy everyday during the
+program. Tinnitus is a chronic condition and
+therefore, needs long term treatment.</string>
+    <string name="mindful">Mindful Breathing Exercises</string>
+    <string name="mindfulbreath">•Breathing is essential to life and you have been doing it since
+the day you where born, but have you ever noticed it?\n\n•The mindful breath meditation will guide you through a
+meditation that centers around noticing your breath.\n\n•Explore it with all your senses. Become more familiar with it.
+How does it sound? How does it feel with each in-breath and
+out-breath? Is the air cool or warm? Where exactly do you feel
+the breath?\n\n•We will be using your breath as a tool for relaxation, and
+something to focus your attention on to block out the many
+thoughts racing through your mind at any particular moment.\n\n•Remember like with all mediations, do not become
+discouraged if you are not able to focus your mind during the
+entire duration of the meditation. With practice your focus and
+meditation will become deeper allowing you to experience
+more relaxation and control over your mind.</string>
+    <string name="homework">Homework</string>
+    <string name="mindfulhomework">•Practice mindful breathing exercise during any free
+moment.\n\n•At the very minimum practice 2 times per day for 5 - 8
+minutes each session.</string>
+    <string name="mod8">The last step to finishing this Cognitive Behavioral Therapy is the Homework for Week 8.</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="outline">Tinnitus Education: Outline</string>
+    <string name="tinedoutline">•What is Tinnitus?\n&#160;&#160;&#160;&#160;&#160; -How we hear vs. tinnitus\n&#160;&#160;&#160;&#160;&#160; hearing.\n&#160;&#160;&#160;&#160;&#160; -Sounds of tinnitus\n&#160;&#160;&#160;&#160;&#160; -How many people have tinnitus?\n•What causes Tinnitus?\n•How can Tinnitus affect you?\n&#160;&#160;&#160;&#160;&#160; -Tinnitus can affect concentration\n&#160;&#160;&#160;&#160;&#160; -Tinnitus can cause emotional\n&#160;&#160;&#160;&#160;&#160; reactions\n&#160;&#160;&#160;&#160;&#160; -Tinnitus can disrupt sleep\n&#160;&#160;&#160;&#160;&#160; -Why is tinnitus a problem?\n•Is there a cure?\n &#160;&#160;&#160;&#160;&#160;-Methods to eliminate tinnitus or \n&#160;&#160;&#160;&#160;&#160;reduce its loudness\n&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; •Prescription Drugs\n&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; •Use of Sound\n&#160;&#160;&#160;&#160;&#160; -Methods to manage tinnitus</string>
+    <string name="whatis">What is tinnitus?</string>
+    <string name="tinnitus">•TIN-i-tus is a ringing, humming, buzzing, or other
+chronic noise that is perceived that does not have an
+outside source. This sound can occur from one or
+both ears, or within the head.\n\n•In the U.S., 50 million people have experienced
+tinnitus at some point and 10 million people visit
+physicians for this problem</string>
+    <string name="howhear">How we hear vs. tinnitus</string>
+    <string name="soundwaves">Sound waves in the air become transformed into signals
+that the brain recognizes as sound. With tinnitus there
+are NO sound wave vibrations that cause nerve fibers to
+activate. In most forms of tinnitus, it is thought that
+nerves fire on their own. The brain perceive these
+signals as sound</string>
+    <string name="causes">What Causes Tinnitus</string>
+    <string name="mod1pg4">•When we get hearing loss, we lose some cells in the
+inner ear that sense sound. The brain cells that do
+the function of hearing, however, do not die. This
+causes an increase in activity in the brain cells that
+do the function of hearing.\n\n•Tinnitus is caused by a combination of this increase
+in activity and usually one of the following factors:\n&#160;&#160;&#160;&#160;&#160;-Stress\n
+        &#160;&#160;&#160;&#160;-Anxiety\n&#160;&#160;&#160;&#160;&#160;-Fatigue\n
+        &#160;&#160;&#160;&#160;-Poor sleep\n&#160;&#160;&#160;&#160;&#160;-Depression
+    </string>
+    <string name="mod1pg5">•Factors such as stress, anxiety, depression, poor
+sleep, etc. cause some changes in the brain that
+makes the brain more aware of the tinnitus\n\n•Since tinnitus is affected by emotional factors (e.g.,
+stress, anxiety, depression, etc), management of
+tinnitus requires managing any of these co-existing
+issues\n\n•This includes, sleep management, stress
+management, etc.</string>
+    <string name="sounds">Sounds of Tinnitus</string>
+    <string name="mod1pg6">•Patients with tinnitus often report sounds of:\n
+        &#160;&#160;&#160;&#160;-Ringing\n&#160;&#160;&#160;&#160;&#160;-High pitched tone\n
+        &#160;&#160;&#160;&#160;-Hissing\n&#160;&#160;&#160;&#160;&#160;-High tension wire\n
+        &#160;&#160;&#160;&#160;-Buzzing\n&#160;&#160;&#160;&#160;&#160;-Sizzling\n
+        &#160;&#160;&#160;&#160;-Crickets
+    </string>
+    <string name="affect">How can tinnitus affect you?</string>
+    <string name="mod1pg7">•Tinnitus can affect a person’s life in a variety of ways
+Some of the main effects are:\n\n&#160;&#160;&#160;&#160;&#160;-Concentration difficulties\n
+    &#160;&#160;&#160;&#160;-Emotional reactions\n&#160;&#160;&#160;&#160;&#160;-Disrupted sleep\n\n
+        •The onset of tinnitus can be life-altering
+    </string>
+    <string name="mod1pg8title">Tinnitus can affect concentration</string>
+    <string name="mod1pg8">•The sound of tinnitus can disrupt work and tasks that
+require your attention\n\n•The chronic sound of tinnitus is unpleasant and
+cannot be eliminated\n&#160;&#160;&#160;&#160;&#160;-Some people differ in their ability to ignore sounds.
+For some, it is easy to ignore, but for others it can
+be challenging\n\n•Tinnitus does not make it difficult to hear, but it can
+disturb with focused listening</string>
+    <string name="mod1pg9title">Tinnitus can cause emotional reactions</string>
+    <string name="mod1pg9">•Tinnitus is a chronic noise and can become irritating\n\n
+    •Emotional reactions to tinnitus have been reported to
+cause:\n&#160;&#160;&#160;&#160;&#160;-Depression\n&#160;&#160;&#160;&#160;&#160;-Anxiety\n
+        &#160;&#160;&#160;&#160;-Anger\n&#160;&#160;&#160;&#160;&#160;-Frustration\n
+        &#160;&#160;&#160;&#160;-Worry\n\n•People with previously existing anxiety and
+depression are more prone to chronic tinnitus\n\n•The goal of tinnitus management is to manage these
+reactions to tinnitus.</string>
+    <string name="mod1pg10title">Tinnitus can disrupt sleep</string>
+    <string name="mod1pg10">•Many tinnitus patients have reported sleep problems\n\n
+        •Tinnitus can make it hard to fall asleep and returning
+to sleep after waking up in the middle of the night\n\n
+        •The worse your sleep is, the worse your tinnitus will
+be the next day\n\n
+        •Tinnitus can cause you to become sleep deprived
+and make it harder to normally function during the
+day
+    </string>
+    <string name="mod1pg11title">Why does tinnitus become a problem</string>
+    <string name="mod1pg11">1. Many people with tinnitus report that “it came out of
+nowhere.” Tinnitus is a different sound and it can be
+annoying by focusing on it.\n\n2. It can be perceived as a threat and keep our
+attention. It can create fear that it is a serious medical
+condition or a psychological disorder. There are often
+reports of “going crazy” or “having a tumor”.\n\n3. There are different reactions to tinnitus. The sound of
+tinnitus may disturb one person, but not another.\n\n4. Tinnitus can be annoying because the sound is
+persistent. There is a loss of “peace and quiet”.</string>
+    <string name="mod1pg12">5. Tinnitus can trigger negative memories if the onset of
+tinnitus was associated with a traumatic event.
+Traumatic events can include stressful experiences,
+severe sleep disturbance, combat, head injury, or
+explosion.\n\n6. Tinnitus is an unwelcomed sound and can be more
+irritating if it is louder. Those with a higher sensitivity of
+tinnitus appear to be most bothered by it\n\n7. The more attention given to tinnitus, the more it
+becomes problem. It may affect you lifestyle.\n\n8. Tinnitus can cause a lack of control. People with
+tinnitus feel like it is uncontrollable or escape it.</string>
+    <string name="mod1pg13title">Is there a cure?</string>
+    <string name="mod1pg13">•Curing tinnitus means that the sound that you hear
+would be eliminated.\n&#160;&#160;&#160;&#160;&#160;-Unfortunately, there is no cure for tinnitus yet.\n\n
+    •There are available treatments to manage living with
+tinnitus. These treatments can:\n\n&#160;&#160;&#160;&#160;&#160;-Reduce its loudness\n
+    &#160;&#160;&#160;&#160;-Reduce the person’s reactions to the tinnitus</string>
+    <string name="mod1pg14title">Reduce Its Loudness</string>
+    <string name="mod1pg14">•There are many ways to try treat tinnitus, but there is no
+proven cure\n\n•Some ways to reduce its loudness are:\n&#160;&#160;&#160;&#160;&#160;-Prescription drugs\n
+    &#160;&#160;&#160;&#160;-Use of Sound\n&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;•Hearing aids\n
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;•Masking\n&#160;&#160;&#160;&#160;&#160;-Generic Masking\n
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;•Table-top noise generator\n
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;•Music\n&#160;&#160;&#160;&#160;&#160;-Customized Masking\n
+    &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;•Sound therapy customized to the hearing and
+tinnitus profile
+    </string>
+    <string name="mod1pg15title">Prescription Drugs</string>
+    <string name="mod1pg15">•There have been many drugs used to treat tinnitus,
+but most are based on a trial-and-error process.\n\n•The drugs used are designed to manage other
+tinnitus-related problems such as\n
+    &#160;&#160;&#160;&#160;-Depression\n
+    &#160;&#160;&#160;&#160;-Anxiety\n
+    &#160;&#160;&#160;&#160;-Mood disorders\n
+    &#160;&#160;&#160;&#160;-Lack of sleep\n\n•With this method for treatment, it must be
+approached with great care due to potential side
+effects.</string>
+    <string name="mod1pg16title">Use of Sound</string>
+    <string name="mod1pg16">•Hearing aids\n&#160;&#160;&#160;&#160;&#160;-Hearing aids can assist in tinnitus management since
+they allow more sound to reach the brain to reduce
+the perception of tinnitus, they increase background
+noise, this allows you to hear soothing and interesting
+sounds, also they can make difficult listening
+situations less stressful.\n\n•Tinnitus Masking\n&#160;&#160;&#160;&#160;&#160;-This treatment method can give the perception that
+tinnitus is eliminated or reduced in loudness. This
+method can give the patient a sense of relief from
+tinnitus.</string>
+    <string name="mod1pg17title">Reduce Reactions to Tinnitus</string>
+    <string name="mod1pg17">•Reducing the reactions to tinnitus is a way of
+management. This approach of treatment can help
+you better cope living with tinnitus. This includes:\n&#160;&#160;&#160;&#160;&#160;-Psychological approaches\n
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;•Cognitive-Behavioral Therapy (CBT)\n
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;•Mindfulness Based Therapy
+    </string>
+    <string name="mod1pg18title">Cognitive-Behavioral Therapy (CBT)</string>
+    <string name="mod1pg18">•CBT combines helping patients change how they
+think about their tinnitus to help them feel better with
+everyday activity changes\n\n•CBT was initially used to treat depression, anxiety,
+and chronic pain.\n\n•It is now used to psychologically manage tinnitus by
+reducing negative reactions to tinnitus.</string>
+    <string name="mod1pg19title">Mindfulness Based Therapy</string>
+    <string name="mod1pg19">•Mindfulness based therapy is used to acknowledge
+thoughts of tinnitus in a nonjudgmental way and living
+in the moment.\n\n•It is used to accept tinnitus by becoming aware of it.</string>
+    <string name="mod1pg20title">Can Tinnitus be Cured?</string>
+    <string name="mod1pg20">•“Cure” = eliminate or reduce the tinnitus\n\n
+        •No cure yet – research underway\n\n•It can’t be cured, but you can learn to manage your
+reactions to it
+    </string>
+    <string name="mod1pg21title">Tinnitus Management</string>
+    <string name="mod1pg21">•There are 2 components to tinnitus\n
+        &#160;&#160;&#160;&#160;1. The sound that you hear\n
+        &#160;&#160;&#160;&#160;2. The reaction you have to the sound\n\n•To help Manage your tinnitus, you need to address
+both components\n&#160;&#160;&#160;&#160;1. Using sound to help reduce the perception of the
+sound\n&#160;&#160;&#160;&#160;2.Manage your reaction to the sound that you hear
+    </string>
+    <string name="mod1pg22title">Goals of Tinnitus Management (All Methods)</string>
+    <string name="mod1pg22">•Emotional reactions are reduced\n\n
+    •Stress is reduced\n\n
+    •Little if any attention is given to tinnitus\n\n
+    •Tinnitus does not affect any life activities in a major way\n\n
+    •Further help is not needed or wanted\n\n
+    •These goals can be reached even if the sound of
+your tinnitus doesn’t change!</string>
+    <string name="mod1pg23title">Sound Therapy</string>
+    <string name="mod1pg23">•What is it?\n
+    &#160;&#160;&#160;&#160;-Sound that helps reduce the perception of tinnitus\n\n
+        •How can it help?\n
+        &#160;&#160;&#160;&#160;-By giving you a sense of relief from tension and
+stress caused by tinnitus\n\n
+        •When can it help?\n
+        &#160;&#160;&#160;&#160;-Any time your tinnitus bothers you
+    </string>
+    <string name="mod1pg24title">Sound Therapy Things to Remember</string>
+    <string name="mod1pg24">•Sound therapy is more soothing to some people, and
+less soothing to others\n\n•The goal of customized sound therapy is to direct
+more sound to areas of the brain that are thought to
+be responsible for the perception of tinnitus\n\n•Music therapy is the combination of sound therapy
+and relaxing music\n\n•This allows you to listen to music while the sound
+therapy is playing in the background</string>
+    <string name="mod1pg25title">Martha</string>
+    <string name="mod1pg25">•When Martha reads at home, she listens to music
+therapy\n\n•The sense of relief she feels from the music makes it
+easier for her to concentrate\n\n•This an example of using music therapy</string>
+    <string name="mod1pg26title">Background Sound</string>
+    <string name="mod1pg26">•What is it?\n
+    &#160;&#160;&#160;&#160;-Any sound that is neutral (not soothing and not
+interesting)\n
+        &#160;&#160;&#160;&#160;-For example like the sound of the air conditioner,
+dishwasher or talking of others in a restaurant\n\n•How can it help?\n
+        &#160;&#160;&#160;&#160;-Reduces contrast to make it easier to ignore your
+tinnitus (we’ll explain!)\n\n•When can it help?\n
+        &#160;&#160;&#160;&#160;-Any time
+    </string>
+    <string name="mod1pg27title">Imagine a Lit Candle in a Dark Room</string>
+    <string name="mod1pg27">•The candle is the only light in
+the room\n\n•There is sharp contrast
+between the bright candle
+and the dark room\n\n•The candle naturally attracts
+a lot of attention</string>
+    <string name="mod1pg28title">Turn on the Lights!</string>
+    <string name="mod1pg28">•This is the same lit candle, but
+with the lights on\n\n•The contrast between the
+candle and the room has been
+reduced\n\n•The candle is just as bright as
+before, but attracts less
+attention because now there is
+other light in the room along
+with the candle</string>
+    <string name="mod1pg29title">Same Candle – Different Backgrounds</string>
+    <string name="mod1pg29">This same idea works for tinnitus…</string>
+    <string name="mod1pg30title">Imagine “Tinnitus” in a Quiet Room</string>
+    <string name="mod1pg30">•The tinnitus is the only
+“sound”\n\n•There is sharp contrast
+between the tinnitus and
+the quiet room\n\n•The tinnitus naturally
+attracts a lot of attention</string>
+    <string name="mod1pg31title">Turn on the Sound!</string>
+    <string name="mod1pg31">•Same tinnitus, but in a
+background of sound\n\n•The contrast between the
+tinnitus and the quiet room
+has been reduced\n\n•The tinnitus is just as loud
+as before, but attracts less
+attention because of the
+background sound</string>
+    <string name="mod1pg32title">Same Tinnitus - Different Backgrounds</string>
+    <string name="mod1pg33title">Tinnitus Contrast Activity</string>
+    <string name="mod1pg33">•Spend a few moments listening to your tinnitus
+in quiet\n\n•Then, with the background sound turned on,
+notice the reduced contrast\n\n•Reducing contrast makes it easier to ignore
+your tinnitus</string>
+    <string name="mod1pg34title">Background Sound: Things to Remember</string>
+    <string name="mod1pg34">•Tinnitus is less likely to get your attention when you
+add background sound\n\n•You might not notice background sound helping you
+right away—that doesn’t mean it’s not helping you\n\n•Using constant background sound over weeks or
+months can help you get better at ignoring tinnitus•Never use sound that is irritating or annoying to you
+to manage your reactions to tinnitus</string>
+    <string name="mod1pg35title">Janet</string>
+    <string name="mod1pg35">•Janet keeps a tabletop fountain running on her desk\n\n•The background sound from the fountain makes it easier
+for her to ignore her tinnitus\n\n•This is an example of using background sound</string>
+    <string name="mod1pg36title">Interesting Sound</string>
+    <string name="mod1pg36">•What is it?\n
+    &#160;&#160;&#160;&#160;-Sound that keeps your attention\n
+    &#160;&#160;&#160;&#160;-Sound that involves active listening\n
+    &#160;&#160;&#160;&#160;-Some examples include talk radio, audio books,
+interesting music, dynamic speeches\n\n•How can it help?\n
+        &#160;&#160;&#160;&#160;-Shifts your attention away from your tinnitus\n\n
+        •When can it help?\n&#160;&#160;&#160;&#160;&#160;-When you do not need to concentrate on
+something else\n&#160;&#160;&#160;&#160;&#160;-When you want to relax or sleep
+    </string>
+    <string name="mod1pg37title">Interesting Sound: Things to Remember</string>
+    <string name="mod1pg37">•We’re all different!\n
+        &#160;&#160;&#160;&#160;-Some sounds (e.g., talk radio) are more
+interesting to some people, and less interesting to
+others\n\n•Your job is to find sounds that are interesting to you\n\n•It might take time and patience to find the sounds that
+are most interesting and helpful for you\n\n•Never use sound that is irritating or annoying to you
+to manage your reactions to tinnitus</string>
+    <string name="mod1pg38title">Patrick</string>
+    <string name="mod1pg38">•Patrick talks to his friends on the telephone to keep
+his mind off of his tinnitus\n\n•This is an example of using interesting sound</string>
+    <string name="mod1pg39title">To help you come up with ideas for choosing sounds…</string>
+    <string name="mod1pg39">•You can use\n
+    &#160;&#160;&#160;&#160;-Environmental\n
+    &#160;&#160;&#160;&#160;-Music\n
+    &#160;&#160;&#160;&#160;-Speech</string>
+    <string name="mod1pg40title">Environmental Sound</string>
+    <string name="mod1pg40">•Sounds of nature\n
+        &#160;&#160;&#160;&#160;-Moving water\n
+        &#160;&#160;&#160;&#160;-Beach sounds\n
+        &#160;&#160;&#160;&#160;-Forest sounds\n
+        &#160;&#160;&#160;&#160;-Animals\n
+        &#160;&#160;&#160;&#160;-Wind\n
+        &#160;&#160;&#160;&#160;-Storms and more&#8230;\n\n•Manmade sounds\n
+        &#160;&#160;&#160;&#160;-Masking noise\n
+        &#160;&#160;&#160;&#160;-Electric fan noise\n
+        &#160;&#160;&#160;&#160;-Shower sound\n
+        &#160;&#160;&#160;&#160;-Aircraft noise\n
+        &#160;&#160;&#160;&#160;-Wind chimes\n
+        &#160;&#160;&#160;&#160;-Traffic noise\n
+        &#160;&#160;&#160;&#160;-Radio static\n
+        &#160;&#160;&#160;&#160;and more&#8230;
+    </string>
+    <string name="mod1pg41title">Music</string>
+    <string name="mod1pg41">•There are many styles of music\n\n
+    •We all have our preferred styles\n\n
+      •Any music that is neutral or pleasant can be used to
+manage tinnitus – as long as it is not too loud
+    </string>
+    <string name="mod1pg42title">Speech</string>
+    <string name="mod1pg42">•Speech can be used as part of your plan to manage
+tinnitus\n\n•There are many kinds of speech, and we react
+differently depending on the type of speech and the
+situation\n\n•Some examples:\n
+    &#160;&#160;&#160;&#160;-Talking on the phone\n
+        &#160;&#160;&#160;&#160;-Listening to an audio book\n
+        &#160;&#160;&#160;&#160;-Listening to a lecture
+    </string>
+    <string name="mod1pg43title">Nine Combinations of Sound to Manage Reactions to Tinnitus</string>
+    <string name="mod1pg44title">You Have Now Finished This Module</string>
+    <string name="mod1pg44">•Next let’s take a closer look at an example</string>
+    <string name="mod1pg45title">Bob</string>
+    <string name="mod1pg45">•Listening to talk radio helps Bob get his mind off of his
+tinnitus at night\n
+    &#160;&#160;&#160;&#160;-This helps him get to sleep\n\n
+        •This is an example of using interesting sound\n\n
+        •Tip: It’s best to NOT use the TV for this as the flashing
+images can prevent you from falling asleep
+    </string>
+    <string name="mod1pg46title">Won’t Interesting Sound Keep Me Awake?</string>
+    <string name="mod1pg46">•Interesting sound can be a powerful way to get your
+mind off of your tinnitus\n
+        &#160;&#160;&#160;&#160;-This helps some people relax enough to fall sleep\n
+        &#160;&#160;&#160;&#160;-It might not be helpful for others\n\n
+        •Be open to using sound in surprising or unusual ways
+to manage your reactions to tinnitus!
+    </string>
+    <string name="mod1pg47title">Another Sleep Challenge for Bob</string>
+    <string name="mod1pg47">•Listening to talk radio helps Bob get to sleep when he
+goes to bed at night\n\n•However, he wakes up in the middle of the night and
+has trouble getting back to sleep because of his tinnitus\n\n•He does not like to listen to interesting sound in the
+middle of the night\n\n•What did Bob do?</string>
+    <string name="mod1pg48title">Bob’s Solution</string>
+    <string name="mod1pg48">•Keeping a fan running all night long reduces the contrast
+between Bob’s tinnitus and the quiet of his bedroom\n\n•The reduced contrast helps Bob stay asleep all night long\n\n
+    •This is an example of using background sound</string>
+    <string name="mod1pg49title">Develop a Sound Plan That is Easy to Do</string>
+    <string name="mod1pg49">•Your first Sound Plan should be easy to do and
+practical for you\n\n•Use sounds and devices that you already have\n\n
+    •As you try the Plan, you will learn what helps the
+most\n\n•You will get ideas about how to improve your Plan</string>
+    <string name="mod1pg50title">Write Down Your Sound Plan</string>
+    <string name="mod1pg50">•What will you use for background sound\n\n
+    •(examples include Sound therapy,
+fan, fountain, etc.)\n\n\n•What will you use as an interesting sound\n\n
+        •(examples include audio book, talk
+radio, Music therapy, etc.)
+    </string>
+    <string name="mod1pt2pg1title">Physical Activity Module</string>
+    <string name="mod1pt2pg1">•Exercise and physical activity are excellent methods
+for obtaining healthy lifestyle and feeling better.\n\n•At least 15 minutes of physical activity every day is
+appropriate for maintaining a good and healthy body.\n\n•Good health and mood in turn help you manage your
+tinnitus. Regular exercises also help you get your
+attention away from tinnitus.\n\n•Before starting a new exercise program, it is
+important to check with your doctor, especially if you
+have not exercised for a long time, have chronic
+health conditions, such as heart disease, diabetes,
+hypertension or arthritis.</string>
+    <string name="mod1pt2pg2title">Exercise promotes better sleep</string>
+    <string name="mod1pt2pg2">•Regular physical activity can help you fall asleep
+faster and deepen your sleep.\n\n•Just remember not to do exercise too close to
+bedtime. This might cause you to feel too energized
+to fall asleep.</string>
+    <string name="mod1pt2pg3title">Exercise improves mood</string>
+    <string name="mod1pt2pg3">•A workout at the gym or a brisk 30-minute walk can
+help to relieve stressful daily events.\n\n•Physical activity stimulates various brain neurons
+that secrete some special chemicals
+(neurotransmitters), which in turn make you feel
+happier and more relaxed.\n\n•When you exercise regularly, You may also feel
+better about yourself, your body shape and
+appearance, which will increase your confidence and
+improve your self-esteem.</string>
+    <string name="mod1pt2pg4title">Exercise prevents disorders
+and health conditions</string>
+    <string name="mod1pt2pg4">•Exercise has been shown to decrease the risk of
+cardiovascular diseases. It is also recommended for
+prevention of high blood pressure.\n\n•Independent of current weight, being active increases
+high-density lipoprotein (HDL), or "good" cholesterol
+and decreases unhealthy triglycerides or Low-
+density lipoprotein(LDL). This will keep your blood
+flowing smoothly.\n\n•Regular physical activity helps you prevent or
+manage a wide range of disorders including stroke,
+type 2 diabetes, metabolic syndrome, depression,
+certain types of cancer, arthritis, and more
+importantly your tinnitus.\n\n•Physical activities and meditation techniques like
+Yoga help you bring your tinnitus under control and
+deal with the stress that comes along with it.\n\n•Physical activity and regular exercise control weight.\n\n
+        •Engagement in a physical activity helps you to burn
+calories. The more intense the activity, the more
+calories you burn.\n\n•It is not necessary to do an actual workout. You can
+get more active throughout the day in simple ways</string>
+    <string name="mod1pt2pg5title">Types of beneficial physical
+activities</string>
+    <string name="mod1pt2pg5">•Aerobic activities\n\n•Muscle strengthening activities\n\n
+    •Bone strengthening activities\n\n•Balance and stretching activities</string>
+    <string name="mod1pt2pg6title">Aerobic Activities</string>
+    <string name="mod1pt2pg6">•Aerobic activities include rhythmic movements of
+large muscles. These activities will make you breathe
+harder and increase your heart rate.\n\n•Examples: Running, skipping, swimming, dancing,
+bicycling</string>
+    <string name="mod1pt2pg7title">Muscle-strengthening activities</string>
+    <string name="mod1pt2pg7">•Make muscles do more work than they do on daily
+basis and make them stronger.\n\n•These include activities like push-ups and lifting
+weights.</string>
+    <string name="mod1pt2pg8title">Muscle-strengthening activities</string>
+    <string name="mod1pt2pg8">•They can be done unstructured or as part of a game.\n\n
+    •It is important to work all the different parts of the
+body - your legs, hips, back, chest, abdomen,
+shoulders, and arms.</string>
+    <string name="mod1pt2pg9title">Bone-strengthening activities:</string>
+    <string name="mod1pt2pg9">•Produce force on the bones that causes bone growth
+and strength. The force is commonly produced by
+impact with the ground.\n\n•Make your bones stronger.</string>
+    <string name="mod1pt2pg10title">Bone-strengthening activities
+(Continued)</string>
+    <string name="mod1pt2pg10">•Jumping is especially important for children and
+adolescents.\n\n•Examples: Running, tennis, basketball, gymnastics,
+hopscotch</string>
+    <string name="mod1pt2pg11title">Balance and stretching
+activities</string>
+    <string name="mod1pt2pg11">•Enhance physical stability and flexibility, which
+reduces risk of injuries.\n\n•Examples: gentle stretching, dancing, yoga, martial
+arts, tai chi.</string>
+    <string name="mod3pt1pg1title">Sleep Problems</string>
+    <string name="mod3pt1pg1">•Sleep problems are very common. About half of
+American adults experience it and about 10% have it
+as a chronic problem.\n\n•Sleeping problems can lead to greater medical and
+psychiatric problems, impaired job performance, low
+quality of life, and less well-being in general.\n\n•Cognitive Behavioral Therapy (CBT) provides a safe
+and effective treatment for sleeping problems.</string>
+    <string name="mod3pt1pg2title">Types of Sleep Problems</string>
+    <string name="mod3pt1pg2">•Sleep problems can be caused by medical problems
+(back pain, breathing problems, sleep apnea, chronic
+heart or lung disease, etc.), psychiatric disorders
+(anxiety, depression, dementia, etc.), drugs (nicotine,
+alcohol, cannabis, etc.), environmental factors
+(coffee, loud noisy neighborhood, overstimulation,
+etc.), or in response to major life events.\n\n•Tinnitus and sleeping problems have a two-way
+relationship. Tinnitus can cause sleeping problems
+and in turn, sleeping problems can aggravate tinnitus.</string>
+    <string name="mod3pt1pg3title">What people do to help with their sleep</string>
+    <string name="mod3pt1pg3">•When having problems sleeping, many people start
+with changing their habits. Some read, watch TV, or
+listen to the radio before going to sleep. Others
+simply do nothing except toss and turn and wait to fall
+asleep.\n\n•Some people try over-the-counter sleep aids or
+herbal supplements. Some seek medical care.</string>
+    <string name="mod3pt1pg4title">Sleep Management</string>
+    <string name="mod3pt1pg4">•Sleep Management addresses the factors that
+surround sleeping problems regardless of the cause.\n\n•These include:\n
+    &#160;&#160;&#160;&#160;-Daytime naps\n
+        &#160;&#160;&#160;&#160;-Excessive worry about not being able to sleep\n
+        &#160;&#160;&#160;&#160;-Amount of time spent in bed before sleeping\n
+        &#160;&#160;&#160;&#160;Performance anxiety
+    </string>
+    <string name="mod3pt1pg5title">Summary of Sleep Management</string>
+    <string name="mod3pt1pg5">1. Stimulus Control - Aimed at reestablishing the relationship between
+bed/bedroom and sleeping and correcting the
+sleep-wake schedule\n\n 2. Sleep Restriction - Intended for creating mild sleep deprivation by
+limiting the time in bed and limiting the time in bed
+for actual sleeping\n\n3. Relaxation Training - Meditative techniques for reducing body and
+muscle tensions and distorted thoughts\n\n4. Cognitive Therapy - Psychotherapeutic methods for correcting wrong
+beliefs and attitudes toward sleeping\n\n5. Sleep Hygiene Education - Instructions regarding health practices and factors
+causing sleep problems</string>
+    <string name="mod3pt1pg6title">Stimulus Control</string>
+    <string name="mod3pt1pg6">•Stimulus control technique has 5 parts. With practice,
+of these parts over time, you will gradually correct
+your sleeping schedule and form a healthy stimulus
+(bed) and response (sleeping) relationship.\n\n•1) Only go to bed when you feel sleepy:\n\n•We might confuse being tired with sleepiness. We
+might go to bed early in order to increase the chance
+of falling asleep. This is a bad habit as going to bed
+before feeling sleepy will only result in heightened
+arousal, which in turn will cause more worry and
+frustration
+    </string>
+    <string name="mod3pt1pg7title">Stimulus Control</string>
+    <string name="mod3pt1pg7">•2) Bedroom should only be used for sleeping.\n\n•Sometimes we use our bed/bedroom for eating,
+watching TV, working, or studying. This habit will form
+an association between the bedroom and being
+awake.\n\n•Instead, we better use the bed/bedroom for only
+sleeping. This corrected habit will form a
+stimulus-response relationship, bed=sleep.</string>
+    <string name="mod3pt1pg8title">Stimulus Control</string>
+    <string name="mod3pt1pg8">•3) Get out of bed if you cannot sleep.\n\n•As a rule of thumb, get out of bed if you cannot sleep
+after 15 minutes. Leave the bedroom and do a quiet
+activity. Examples are reading a book, listening to
+classic music, or watching TV.\n\n•Do the same for times when you wake up in the
+middle of the night. If you wake up and stay in bed,
+this might dissociate the relationship between the bed
+and sleeping. Once you leave the room, and felt
+sleepy again, return to the bedroom.</string>
+    <string name="mod3pt1pg9title">Stimulus Control</string>
+    <string name="mod3pt1pg9">•4) Wake up at the same time every morning.\n\n•This practice will help you reorganize your circadian
+(aka sleeping/awakening) rhythm.\n\n•No matter how much you have slept, you should
+maintain a regular sleep schedule (sleeping and
+awakening time) during weekdays and weekends.</string>
+    <string name="mod3pt1pg10title">Stimulus Control</string>
+    <string name="mod3pt1pg10">•5) Never take naps during the day.\n\n•Naps might refresh you during the day, especially if
+you suffer from sleep deprivation. This, however,
+will make it difficult for you to go to bed and sleep at
+the desired bedtime.</string>
+    <string name="mod3pt1pg11title">Sleep Restriction</string>
+    <string name="mod3pt1pg11">•Sleep Restriction means that you limit the time you
+spend in the bed/bedroom to only the time you are
+actually sleeping.\n\n•This technique will create a temporary sleep
+deprivation which will result in faster sleep onset.\n\n•We will explain this technique through an example.</string>
+    <string name="mod3pt1pg1215title">Sleep Restriction</string>
+    <string name="mod3pt1pg12">•Example: Andrew spends 8 hours every night in bed but he
+only sleeps for 6 hours each night. He usually
+struggles for 2 hours until he falls asleep.\n\n•Andrew’s doctor asks him to use the sleep
+restriction technique. He asks him to limit the time in
+bed to 6 hours, his “sleeping window.”\n\n•His doctor then alters this “sleeping window” on a
+weekly basis. </string>
+    <string name="mod3pt1pg13" formatted="false">•As a part of this module, we ask you to follow this
+technique and limit your time in bed to your sleeping
+window.\n\n•The sleep efficiency goal is calculated as follows:\n
+    &#160;&#160;&#160;&#160;-(total sleep time/total time in bed)x100%\n\n•The goal is to keep this percentage to around 85%.
+    </string>
+    <string name="mod3pt1pg14" formatted="false">•If your sleeping efficiency is greater than 90% in
+any week, you can take an additional 15-20 extra
+minutes in bed per night.\n\n•If your sleeping efficiency is less than 80% in any
+week, decrease your sleeping window by 15-20
+minutes.\n\n•If your sleep efficiency is between 80% and 90%,
+keep your current schedule.</string>
+    <string name="mod3pt1pg15">•You should never have a sleeping window of less
+than 5 hours as it is not healthy.\n\n•Daytime drowsiness is a side effect of this
+technique and is usually temporary.\n\n•If your job deals with heavy machinery, motor
+vehicles, or any other duties in which drowsiness is
+dangerous, do not reduce the sleeping window to
+less than 6 hours.</string>
+    <string name="mod3pt1pg1623title">Sleep Management</string>
+    <string name="mod3pt1pg16">•As we discussed, bad habits can cause sleep
+problems. These problems can be further
+exacerbated by wrong beliefs and unrealistic
+expectations.\n\n•We will give you some examples.</string>
+    <string name="mod3pt1pg17">•1) Some people correlate their sleeping problems to
+specific events or causes like pain, allergy, age,
+depression, or tinnitus.\n\n•Matthew cannot sleep because of his tinnitus. He
+believes that he can never have good sleep unless
+his tinnitus is gone.\n\n•While tinnitus can cause sleep disturbance in some,
+believing that he can never sleep with tinnitus is
+self-defeating because Matthew has little control
+over his tinnitus.</string>
+    <string name="mod3pt1pg18">•Example 1 continued:\n\n•Matthew does not know that chronic sleeping
+problems are not solely caused by an external
+cause. This means tinnitus, when associated with
+stress, anxiety, or other psychological factors, will
+result in insomnia.\n\n•By practicing the CBT techniques described in this
+module, Matthew will learn how to overcome or
+adapt to it.</string>
+    <string name="mod3pt1pg19">•2) Some people fear the consequences of not
+having a good night’s sleep. They have concerns
+over health effects of insomnia, which in turn
+causes more anxiety and stress with sleeping.\n\n•Mary did not have good sleep last night. She fears
+that this will lower her performance in the office. Her
+excessive worry about this makes her feel tired.
+She then attributes this tiredness to last night’s
+sleep loss.\n\n•In general, worrying about consequences of
+insomnia makes one more prone to have sleep
+problems.</string>
+    <string name="mod3pt1pg20">•3) Everyone has different sleeping needs. While the
+average sleeping time is said to be 8 hours, this
+number greatly varies between individuals.\n\n•Jason sleeps only 6 hours a night. He constantly
+compares his sleeping patterns with his wife who
+sleeps 7-8 hours a night. He then tries to achieve
+some “normal” sleep by going to bed earlier, but
+after some struggling in bed, he end up sleeping the
+same 6 hours.\n\n•Overly focusing on achieving more sleep worsens
+insomnia.</string>
+    <string name="mod3pt1pg21">•4) Sleeping problems in some people makes them
+feel helpless and develop more anxiety.\n\n•Sophia feels that she has no control over her sleep.
+She feels that her sleep controls her. She puts more
+pressure on herself to sleep, but the feeling of
+powerlessness increases every night and now she
+fears to go to the bed because “she knows that she
+won’t be able to sleep.”\n\n•This way of thinking will make Sophia see herself as
+a victim and worsen the duration of her sleeping
+problems.</string>
+    <string name="mod3pt1pg22">•Example 4 continued:\n\n•Her doctor asks her to “try not to fall asleep when in
+bed.”\n\n•By doing this every night she gets a stronger feeling
+that she is gaining control of her sleep cycle. She
+also learns not to give too much importance to
+sleep.</string>
+    <string name="mod3pt1pg23">•5) Some people develop ideas on how to modify
+their sleep habits. Some of these ideas are
+counterproductive.\n\n•One example is staying in bed later in the morning
+to compensate for poor sleep.\n\n•Another example is trying hard to sleep by thinking
+more and more about sleeping.</string>
+    <string name="mod3pt1pg24title">Sleep Hygiene</string>
+    <string name="mod3pt1pg24">•There are certain measures that you can take to
+help you sleep better at night. These are collectively
+called sleep hygiene.\n\n1. Do not have caffeine-based or other stimulant drinks after dinner.\n
+    2. Do not smoke near bedtime or when you wake up at night\n
+    3. Avoid drinking alcohol late at night.\n
+    4. Avoid exercising near bedtime. Instead, do them in the late
+afternoon or early evening.\n
+    5. Reduce noise, light, or excessive temperatures in your bedroom.
+People generally sleep when it is cooler rather than warmer\n
+    6. Don’t sleep with the television on. The flashing lights of the
+moving images can affect sleep onset.</string>
+    <string name="mod3pt1pg25title">Relaxation Training</string>
+    <string name="mod3pt1pg25">•Certain relaxation and meditation techniques will
+help you sleep better at night.\n\n•These techniques are taught in their modules.\n\n•They will help you achieve a better sleeping at
+night.</string>
+    <string name="mod3pt1pg26title">Exercise</string>
+    <string name="mod3pt1pg26">•Self-report sleep diary is a very good tool to
+address your sleeping problems. For the next 1
+week, please complete a sleep diary and record the
+following: each night’s bedtime, arising time,
+sleep-onset latency, number and duration of
+nighttime awakenings, time of last awakening, naps,
+medication intake, and the quality of your sleep.\n\n•Once you have completed your diary, use it to
+estimate your “sleeping window” and try to apply the
+other techniques taught in this module.</string>
+    <string name="mod6pg13title">Thought Restructuring Module</string>
+    <string name="mod6pg1">The beliefs we have about ourselves are very
+important. They can influence things such as the
+kinds of friends we make, careers we work towards,
+and our personality. In this module we will try to
+identify your thought processes.</string>
+    <string name="mod6pg2">There are certain ways of thinking that could make
+you vulnerable to anxiety, depression, or anger.
+People at risk for depression have concerns about
+failing in life, losing loved ones, and being rejected.
+Those who have a predisposition to anxiety are
+worried about things that can cause them injury,
+general threats, and getting their feelings hurt. People
+at risk for anger management issues have issues with
+humiliation and inferiority.</string>
+    <string name="mod6pg3">The goals in this module:\n\n
+    1) Identifying the core beliefs that might make you vulnerable to depression and anxiety\n\n
+    2) Changing these core beliefs</string>
+    <string name="mod6pg45title">Thought Process</string>
+    <string name="mod6pg4">•Your thought processes affect how you view the
+world. This affects how you deal with different
+situations.\n\n•Thought processes make us pay more attention to
+some things more than others. If your thought
+process is focused on success, you tend to focus
+more on what you have succeeded in life. You think
+about the games you have won, the awards you have
+won, the good grades you received, etc. This gives
+you a positive outlook on life and you continue to look
+for successes.</string>
+    <string name="mod6pg5">•If, however, your thought processes revolve around
+failure, then you remember all your failures more.
+You keep thinking about all the games you lost, all
+the classes in which you did poorly, and your failures
+in life. This gives you a more negative viewpoint of
+the world.\n\n•The way you process thoughts also affects the way
+you remember things. If you focus on negative
+aspects of an event, you will forget all the positive
+events. For example, if you keep thinking about
+spilling a drink at a party and how embarrassed you
+were, you forget the other 99% of the time when you
+had a great time.</string>
+    <string name="mod6pg67title">Avoiding Thought Patterns</string>
+    <string name="mod6pg6">•Sometimes people try to avoid situations in order to
+reduce the likelihood of a possible outcome.\n\n•For example, if someone has an anxious thought
+pattern, they try to avoid situations that cause them
+anxiety. For example, if social situations with the
+opposite gender makes them anxious, they will avoid
+those situation. Or, if crowds make them anxious,
+they will stay at home and not go out. Some people
+are worried about being abandoned. They are so
+concerned about being abandoned they try to not get
+into a relationship or try to break off the relationship
+early so they don’t get “dumped” and abandoned.</string>
+    <string name="mod6pg7">•Sometimes people are concerned about a traumatic
+event and have post-traumatic stress. This leads to a
+state of hyper vigilance and constantly paying
+attention to their surroundings. They may also try to
+avoid people and events that may remind them of the
+traumatic event.\n\n•One other way people avoid the thought patterns is
+by trying to escape the thoughts by using drugs,
+alcohol, stress eating, or sometimes acting out
+sexually.\n\n•These behaviors allow one to avoid the thought
+processes, but these will eventually come back.
+Oftentimes, the addictive behaviors cause more
+negative emotions and make you feel worse rather
+than better.</string>
+    <string name="mod6pg89title">Example</string>
+    <string name="mod6pg8">•John recently returned from combat and narrowly
+escaped an explosion in which some of his friends
+were injured.\n\n•He is constantly aware of his surroundings in the U.S.
+He keeps looking in the rear view mirror and around
+to make sure there are no threats.\n\n•He drinks alcohol nightly so he can get “drunk
+enough to put me to sleep”.\n\n•Many times he wakes up with a headache and thinks
+about how he became angry with his family\n\n•This makes him feel worse and he feels more
+anxious and depressed.</string>
+    <string name="mod6pg9">•Rita is 46 years old and feels like she is showing
+signs of aging.\n\n•She thinks, “I am losing my good looks. I am starting
+to look old and I’m worried that if it continues, I will be
+very unattractive. I checked myself in front of the
+mirror, and noticed some lines in the skin around my
+eyes. My hair does not shine the way it used to.
+There has to be something I can do.\n\n•I spend a lot of time putting on makeup in the
+mornings. I saw a plastic surgeon last week about
+getting injections in my lips and skin. Maybe I can get
+even a facelift. There are lots of young women
+around, plenty of competition.\n\n•To keep feeling young, I have to be willing to do what
+it takes to get the younger, good looking men. I have
+to be willing to do things other women won’t do.\n\n•This type of behavior will not make her feel young,
+but may make her look younger. Thinking more about
+her positive attributes, her intelligence, her sense of
+humor, etc. allows her to feel more confidence when
+interacting with men rather than the constant need for
+repeated facial injections to fight her wrinkles.</string>
+    <string name="mod6pg10title">Review</string>
+    <string name="mod6pg10">•Let’s review what we learned in this module:\n\n
+        &#160;&#160;&#160;&#160;-We all have particular types of thought patterns
+that influence the way we behave.\n\n
+        &#160;&#160;&#160;&#160;-Some have thought processes which revolve
+around success and they remember positive
+events. These are the people who see the cup as
+half-full. This is how we should strive to be.\n\n
+        &#160;&#160;&#160;&#160;-We sometimes we do things to avoid the
+outcomes that we are most concerned about. For
+example, we try to bury the feelings of sadness,
+guilt, or low self-worth by isolating ourselves from
+others. Or, in order to avoid distress, we avoid
+relationships, etc.\n\n
+        &#160;&#160;&#160;&#160;-Understanding how our thought patterns influence
+the way we behave helps us shape our thought
+patterns more positively.
+    </string>
+    <string name="mod3pt2pg1title">Two Categories of Devices</string>
+    <string name="mod3pt2pg1"> Left) Wearable listening devices\n\n Right) Stationary (tabletop) devices
+    </string>
+    <string name="mod3pt2pg2title">Wearable Listening Devices</string>
+    <string name="mod3pt2pg2">The AirDrive earphones sit in front of the ear and allow
+        ambient sound to pass, and therefore, allowing user have conversation or watch tv.</string>
+    <string name="mod3pt2pg3title">MP3 Players</string>
+    <string name="mod3pt2pg3">•Very Flexible\n\n
+    •Download any sound from CD or podcast\n\n•Normally use “earbuds”
+    </string>
+    <string name="mod3pt2pg4title">Bluetooth</string>
+    <string name="mod3pt2pg4">•Short-range radio technology\n\n
+    •Normally used with cell phones\n\n
+    •Available with some MP3 players
+    </string>
+    <string name="mod3pt2pg5title">Bluetooth with Hearing Aids</string>
+    <string name="mod3pt2pg5">•Available with some behind-the-ear hearing aids\n\n
+        •Hearing aids can receive signal from MP3 player\n\n
+        •Also works with some cell phones
+    </string>
+    <string name="mod3pt2pg6title">Satellite Radio</string>
+    <string name="mod3pt2pg6">•Huge number of listening choices\n
+        &#160;&#160;&#160;&#160;-~160 channels
+    </string>
+    <string name="mod3pt2pg79title">Hearing Aids with T-coils</string>
+    <string name="mod3pt2pg7">•Many hearing aids have a T-coil—sometimes called a telephone program\n
+    •Tiny coil of wire in a hearing aid that can pick up electromagnetic signals
+    </string>
+    <string name="mod3pt2pg8">•This is a satellite radio\n\n
+    •Instead of headphones, a neckloop is plugged into it</string>
+    <string name="mod3pt2pg9">•The neckloop sends a wireless signal up to the hearing aid\n\n
+    •You can plug a neckloop into anything with a standard headphone jack—including cell phones, radios, and MP3 players
+    </string>
+    <string name="mod3pt2pg10title">Tabletop Devices: Examples</string>
+    <string name="mod3pt2pg11title">Tabletop Water Fountain</string>
+    <string name="mod3pt2pg12title">Tabletop Sound Generators</string>
+    <string name="mod3pt2pg13title">Docking Station for an MP3 Player</string>
+    <string name="mod3pt2pg14title">Electric Fan</string>
+    <string name="mod3pt2pg15title">Adding Sight to Sound</string>
+    <string name="mod3pt2pg15">•So far, we have talked about using only sound for
+managing reactions to tinnitus\n\n•Listening and watching together can sometimes be
+more helpful</string>
+    <string name="mod3pt2pg16title">I am 100% focused on this football game!</string>
+    <string name="mod3pt2pg17title">More Ideas for Using Both Sight and Sound</string>
+    <string name="mod3pt2pg17">•Going out to a movie\n\n•Watching a DVD or a TV show\n\n
+    •Going to a play, a concert, or a comedy club\n\n•The content should be meaningful and interesting—to
+do a better job of keeping your attention\n\n•Special DVDs are designed to show peaceful scenes
+with relaxing music in the background – makes
+soothing sound both visual and auditory (see
+workbook)</string>
+    <string name="mod3pt2pg18title">Some Ideas for Using Sound at Night</string>
+    <string name="mod3pt2pg19title">“Sound Pillow”</string>
+    <string name="mod3pt2pg19">•Has a cord that can plug into anything with a
+standard headphone: iPod, MP3 player, radio, TV,
+etc.\n\n•Sound from device comes through speakers in pillow\n\n•Only you hear the sound\n\n
+    •Disadvantage: sound is usually only heard in one ear\n\n•Useful if you have tinnitus in only one ear
+    </string>
+    <string name="mod3pt2pg20title">Pillow Speakers</string>
+    <string name="mod3pt2pg20">•These speakers can be placed under your pillow\n\n
+    •This way you can use your own pillow not the one
+that comes with the “sound pillow”\n\n•The pillow speaker is mainly useful when you have
+tinnitus in one ear and you can place that ear on the
+pillow</string>
+    <string name="mod3pt2pg21title">Fleece Headband with Embedded Speakers</string>
+    <string name="mod3pt2pg21">•Originally made for skiers, but can be used comfortably in bed\n\n
+        •Plugs into any device with standard headphone jack\n\n
+        •Only you hear the sound\n\n
+        •Sound is heard in both ears
+    </string>
+    <string name="mod3pt2pg22title">Neck Pillows</string>
+    <string name="mod3pt2pg22">•Sometimes used for sleeping on an airplane\n\n
+    •This idea came from a Veteran who had tinnitus who
+wanted to wear standard earphones at night – he
+arranges the pillow so that when he lays his head on
+it, there\'s no pressure on the earphones</string>
+    <string name="mod3pt2pg23title">Sound Therapy Takes Time</string>
+    <string name="mod3pt2pg23">•It takes a long time for tinnitus to respond to sound
+therapy\n\n•We generally like things to work right away like
+medication, but tinnitus is different\n\n•Be patient as sound therapy takes 3 to 6 months to
+become effective</string>
+    <string name="mod3pt2pg24title">Changing Thoughts and Feelings to
+Manage Tinnitus</string>
+    <string name="mod3pt2pg24">•This is the fundamental principle of cognitive behavioral
+therapy\n
+    &#160;&#160;&#160;&#160;-Describes ways to change your thoughts and
+feelings about tinnitus\n\n
+        •These is done in addition to using sound to manage tinnitus
+    </string>
+    <string name="mod3pt2pg25title">Avoid Loud Noise</string>
+    <string name="mod3pt2pg25">•Use double hearing
+protection when you are
+around very loud noise (e.g.,
+shooting, flight deck, etc.)\n\n•This means using insert ear
+plugs and over the ear
+hearing protection\n\n•Use ear plugs when going to
+concerts, bars, clubs, where
+loud music is played\n\n•Use ear plugs when using
+power tools or powered lawn
+mowers
+    </string>
+    <string name="mod3pt2pg27title">Standard earplugs</string>
+    <string name="mod3pt2pg28">Left) Correct use\n\n Right) Incorrect use</string>
+    <string name="mod3pt2pg29title">Earmuffs</string>
+    <string name="mod3pt2pg30title">Take Good Care of Yourself</string>
+    <string name="mod3pt2pg30">•Exercise daily\n\n•Eat healthy foods\n\n
+    •Avoid/reduce stress\n\n•Make meditation a
+routine part of your
+day
+    </string>
+    <string name="mod3pt2pg31title">Keep Your Mind and Body Active</string>
+    <string name="mod3pt2pg32title">Learn All You Can About Tinnitus</string>
+    <string name="mod4pt1pg1title">Feelings Module</string>
+    <string name="mod4pt1pg1">Why people feel bad?\n
+    -They have a negative self-image\n
+    -They interpret events and experiences negatively\n
+    -Their future outlook is negative\n
+    -They believe that bad things will never change\n\n
+    What makes people happy:\n
+    -They have a positive self-image\n
+    -They interpret things positively\n
+    -They view of the future positively
+    </string>
+    <string name="mod4pt1pg2title">Character Examples</string>
+    <string name="mod4pt1pg2">-Amy is a happy person and has confidence in herself.
+Though she understands that she is not perfect and
+has her own faults and weaknesses, she actively tries
+to improve them. She has had good experiences with
+relationships in the past even though they didn’t work
+out but she is hopeful that she will have successful
+relationships in the future.\n\n
+    -John is unhappy most of the time and believes that
+he has bad luck. He sees the future as being dark
+and bleak. He has never had good experiences with
+his relationships and doesn’t believe that this will
+change in the future.</string>
+    <string name="mod4pt1pg3title">Advantages of Amy:</string>
+    <string name="mod4pt1pg3">-She feels good about herself, she feels worthy\n\n
+        -Her interpretation of events is a positive one\n\n
+        -She is looking forward to more happiness and
+success</string>
+    <string name="mod4pt1pg4title">Disadvantages of John:</string>
+    <string name="mod4pt1pg4">He has a negative view of himself\n\n
+        His interpretation of events are negative\n\n
+        He sees the future as being dark for him and he does
+not have any hope for change\n\n
+        It is obvious that John is in risk of depression and
+anxiety more than Amy</string>
+    <string name="mod4pt1pg5">In the next section Amy and John answer questions
+about\n\n-Their failing grade on the exam\n-
+        About relationships with their “difficult” daughter\n-
+        Moving up the corporate ladder</string>
+    <string name="mod4pt1pg6title">Identifying Negative Thoughts and Positive Thoughts</string>
+    <string name="mod4pt1pg6">Please read the character answers to the questions
+and identify the negative and positive thoughts,
+negative and positive views of the future, and
+negative and positive interpretations of events.</string>
+    <string name="mod4pt1pg7title">Question 1): Have you ever failed your exam?</string>
+    <string name="mod4pt1pg7">-Amy : Yes 2 or 3 times, I was very sad and
+disappointed at first but I found out that it was
+because I did not manage my time well. I went out
+too much with my friends and spent a lot of time in
+the gym. From the beginning of this semester I tried
+to focus on school as well as my other interests but I
+realize now that I need to spend more time on school.\n\n-John : I am not as smart as I want to be, I failed my
+exam 2 or 3 times. Sometimes I think that I am not
+suitable for this course. Sometimes I think about
+giving up the studying. If it happens again, I think I
+will give it up.</string>
+    <string name="mod4pt1pg8title">Question 2): Have you ever had
+problems in the relationship with your
+children?</string>
+    <string name="mod4pt1pg8">-Amy: My daughter always talks back to me. She
+fights me on almost everything. But I know that she
+is independent and strong-willed. She thinks for
+herself and won’t fall to peer pressure like the other
+girls her age.\n\n-John: My daughter always talks back to me. She
+fights me on everything. She is so disrespectful
+towards me and it drives me crazy. I don’t know
+what’s wrong with her.</string>
+    <string name="mod4pt1pg9title">Question 3): How do you foresee your
+progress at the company?</string>
+    <string name="mod4pt1pg9">Amy: I will continue working hard and be a team
+player. I can’t expect immediate success but if I keep
+being consistent with my work ethic, my boss will
+eventually notice and I am sure that I will get that
+promotion.\n\n-John: I work hard but I am not sure if anyone notices.
+Unless I do something very dramatic there is no
+point. At this rate, I don’t think I will ever get
+promoted.</string>
+    <string name="mod4pt1pg10title">Their Differences</string>
+    <string name="mod4pt1pg10">-People would rather be Amy instead of John. It is
+obvious that John is at risk of being depressed and
+anxious.\n\n-Amy is much more confident. She has internalized a
+more positive view of the future. Most people do not
+want to feel unhappy and depressed all the time but
+sometimes negative thinking becomes a habit.
+Carrying and holding these negative thought make us
+more vulnerable to depression, anxiety, and
+unhappiness.</string>
+    <string name="mod4pt1pg11title">So, Is It My Fault For Feeling Bad?</string>
+    <string name="mod4pt1pg11">Not at all!!\n\n-It is not your fault. It depends on many factors, We
+suggest that you modify these negative feelings. By
+taking positive steps and improving your skills, you
+can change your life.\n\n-Cognitive behavioral therapy (CBT) can help people
+cope better with their everyday or more serious
+problems like abuse, accidents, etc.\n\n-CBT can help people find a way for best coping with
+their situation and problems.</string>
+    <string name="mod4pt1pg12title">How Do I Become More Satisfied ?</string>
+    <string name="mod4pt1pg12">-You can change your view about the future and about
+yourself.\n\n-CBT suggests that your emotions are strongly
+influenced by the way you think. Negative emotion
+are caused by negative thoughts. Positive emotions
+are caused by positive thoughts.</string>
+    <string name="mod4pt1pg13title">The Two Kinds of Interpretations</string>
+    <string name="mod4pt1pg13">Say someone is at a party, one of his friend passes
+and does not say hi to him.\n\n-Positive Interpretation: She did not see me. If she
+saw me, she would have come over.\n\n-Negative Interpretation: She ignored me, she
+probably doesn’t like me.\n\n-It isn’t the events themselves that trigger the feelings,
+it is our interpretation of the events that lead to such
+feelings.</string>
+    <string name="mod4pt1pg14title">Example</string>
+    <string name="mod4pt1pg14">-You want to go on a trip with your friends, but you
+become ill.\n\n-How do you feel? What are your thoughts?\n\n-What are our characters’
+        feelings and thoughts?\n\n
+        -Amy: I have not gotten sick for a long time, I am
+lucky that it happened now not during my trip . I will
+call my friends and explain the situation. Maybe I can
+join them later…\n\n-John: This is the worst thing that could happen. Why
+am I sick now? I have the absolute worst luck…</string>
+    <string name="mod4pt1pg15">Let’s go through examples that might help
+show you how faulty thinking might be the
+problem.</string>
+    <string name="mod4pt1pg16title">All-or-None Thinking</string>
+    <string name="mod4pt1pg16">When you see things in only 2 categories such as black
+or white.\n\n
+Example: You see yourself as a failure if you are not
+perfect.\n\n
+Example: “Nothing I ever do is right.”\n\n
+Tinnitus example: “If my tinnitus is loud when I wake up
+in the morning, I know I will have a bad day.”</string>
+    <string name="mod4pt1pg17title">Oversimplifying</string>
+    <string name="mod4pt1pg17">When you interpret one bad event as a pattern that
+never changes.\n\nExample: You get on the wrong train one time and think,
+“I’ll never learn how to use the subway.”\n\nTinnitus example: “My tinnitus kept me awake all night.
+I’ll never get the rest I need.”</string>
+    <string name="mod4pt1pg18title">Focusing on the Wrong Details</string>
+    <string name="mod4pt1pg18">When you pick out a single detail and focus on it. You
+don’t think about more positive details.\n\n
+        Example: “I got a 60% on my math homework. I’m a
+terrible student.”\n\nTinnitus example: “My tinnitus made it hard to enjoy
+dinner with my friend. I’ll never have fun with friends
+anymore. ”</string>
+    <string name="mod4pt1pg19title">Jumping to Conclusions</string>
+    <string name="mod4pt1pg19">When you think of an event as being unpleasant despite
+there being no facts to support it. You assume that you
+know what someone else is thinking or assume things
+will turn out badly.\n\nExample: “If I go to that party, I won’t know anyone and
+will not have fun.”\n\nTinnitus example: “My tinnitus kept me awake last night.
+Today I met a friend for coffee. I was really tired and
+couldn’t come up with much conversation. He probably
+thought I was boring.”</string>
+    <string name="mod4pt1pg20title">Overestimating</string>
+    <string name="mod4pt1pg20">When you think things are more important than they
+really are (such as a mistake, event, or someone else’s
+success).\n\nExample: “I forgot to shake my bosses hand!” He’s
+going to think that I am unprofessional.\n\nTinnitus example: “My tinnitus makes me moody. No
+one wants to be around me.”</string>
+    <string name="mod4pt1pg21title">Underestimating</string>
+    <string name="mod4pt1pg21">When you think things are less important than what they
+really are (such as your success or someone else’s
+faults).\n\nExample: “So I got a promotion. It’s not a big deal.”\n\n
+        Tinnitus example: “I know I learned how to get sleep
+even though my tinnitus is loud and bothers me. Even
+so, I don’t think I will ever be able to learn to fully deal
+with my tinnitus.”</string>
+    <string name="mod4pt1pg22title">Assuming the Worst</string>
+    <string name="mod4pt1pg22">When you think something is much worse that it really
+is.\n\nExample: “She turned me down when I asked her to go
+on a date with me. Holy Crap!!! She will tell everyone.
+No one will ever go on a date with me now.”\n\n
+        Tinnitus example: “Tinnitus is going to make me a
+crazy, moody, deaf person that no one will ever want to
+talk to.”</string>
+    <string name="mod4pt1pg23title">Emotional Thoughts</string>
+    <string name="mod4pt1pg23">When you think that your emotions show the way things
+really are. You might think, “I feel it, so it must be true.”\n\n
+Example: “I feel like I’m the only one who cleans up
+around here, no one ever helps me out.”\n\n
+Tinnitus example: “I feel like no one knows what I am
+going through with my tinnitus. I feel all alone in my
+struggle.”</string>
+    <string name="mod4pt1pg24title">“Should” statements</string>
+    <string name="mod4pt1pg24">When you say “should” and “shouldn’t” to try to get
+yourself to do hard tasks. These statements make you
+feel guilty. Also included are these statements with the
+words “must” and “ought”.\n\nExample: “I should be eating healthier and stop eating
+food I like.”\n\nTinnitus example: “I should be learning how to deal with
+my tinnitus instead of avoiding my exercises.”</string>
+    <string name="mod4pt1pg25title">Labeling</string>
+    <string name="mod4pt1pg25">Attaching a bad label to yourself or others\n\n
+        Example: “He lost his keys. He’s so stupid.”\n\n
+        Tinnitus example: “I can’t deal with my tinnitus, I’m such
+a weakling.”</string>
+    <string name="mod4pt1pg26title">Making Things Personal</string>
+    <string name="mod4pt1pg26">You see yourself as the cause of negative events when
+your are not actually responsible. You ignore other
+details.\n\nExample: “My teacher was rude to me because I was
+sick.”\n\nTinnitus example: “My tinnitus made it hard for me to
+enjoy the picnic. I think I caused everyone else have a
+bad time as well.”</string>
+    <string name="mod4pt1pg27title">Blaming</string>
+    <string name="mod4pt1pg27">You blame others for your problems. You may also
+blame yourself for other people’s problems.\n\n
+        Example: “I didn’t get the job because you didn’t call to
+give me a pep talk before my meeting.”\n\n
+Tinnitus example: “My tinnitus wouldn’t be such a
+problem if my wife was more supportive.”</string>
+    <string name="mod4pt1pg28title">As You Have Seen</string>
+    <string name="mod4pt1pg28">Everyone has different ways of thinking about events.
+\n\nDifferent thoughts lead to different feelings, which
+lead us to act differently.</string>
+    <string name="mod4pt1pg29title">CBT: Cognitive Behavior Therapy</string>
+    <string name="mod4pt1pg29">We can illustrate CBT with a simple diagram\n\n
+Event --> Thought --> Feeling --> Behavior\n\n
+Events trigger our thoughts which produce our
+feelings which determine our behaviors</string>
+    <string name="mod4pt1pg30title">Example</string>
+    <string name="mod4pt1pg30">You have tried very hard to get that promotion at
+work but it was given to someone else.\n\n
+You think “all that hard work was for nothing”.\n\n
+You feel depressed\n\n
+Because you feel depressed, you put in less of an
+effort. Your performance declines. You might not
+even apply for the next position that opens up.</string>
+    <string name="mod4pt1pg31title">How Thoughts Lead to Different Behaviors</string>
+    <string name="mod4pt1pg31">Thoughts: I tried so hard but I guess the people at
+work just don’t like me.\n\n
+Feelings: depression, anxiety, shame\n\n
+Behavior: does the minimal amount of work\n\n
+required, not friendly to coworkers\n\n
+OR\n\n
+Thoughts: I will be more prepared next time, other\n\n
+applicants didn’t get it either\n\n
+Feelings: a bit of sadness, determination to do better\n\n
+Behavior: put in more time at work, come up with\n\n
+helpful ideas</string>
+    <string name="mod4pt1pg32title">As Shown:</string>
+    <string name="mod4pt1pg32">Some thoughts trigger negative feelings and some
+trigger positive feelings.\n\nMany of us would be very upset at not receiving that
+promotion. Trying to handle this situation may cause
+positive responses (determination, increased effort)
+or negative responses (self-loathing, fear,
+avoidance).\n\nResponse to any event can be either positive (useful)
+or negative (not useful or even harmful)</string>
+    <string name="mod4pt1pg33">No matter how long or short the event is, it
+can trigger strong positive or negative
+emotions.</string>
+    <string name="mod4pt1pg34title">How Thoughts Influence Feelings</string>
+    <string name="mod4pt1pg34">I think: I will never be happy again. Therefore I feel: Hopeless\n
+        I think: Life is not worth living. Therefore. I feel: Suicidal\n
+        I think: I am going crazy. Therefore I feel: Frightened, panicky\n
+        I think: I can’t do this alone. Therefore I feel: Anxious, dependent\n
+        I think: I’ve done this before, I can do it again. Therefore I feel: Hopeful, energized\n
+        I think: Nobody is perfect. Therefore I feel: Relieved, less pressured\n
+        I think: I didn’t give up, at least I tried. Therefore I feel: Proud, happy\n
+        I think: No one cares about me. Therefore I feel: Rejected, lonely\n
+    </string>
+    <string name="mod4pt1pg35">We often believe that we know what other people are
+thinking. We have to remember that people think and
+see things differently than we do.\n\n
+In fact, we have to identify our thoughts and then
+examine the facts. If I believe something is true, it
+doesn’t necessarily mean that it is.\n\n
+Thoughts are hypotheses, descriptions or even
+speculations. They can be true or false.\n\n
+Many people who are depressed, anxious, or angry
+treat their thoughts as if they were facts.</string>
+    <string name="mod4pt1pg36">This is an example that shows how the same event can
+lead to different thoughts, feelings, and behaviors\n\n
+    EVENT: Hear glass breaking while alone at home THOUGHT: Someone is
+breaking into my
+houseFEELING: AnxiousBEHAVIOR: Lock the door, call
+the police\n\n
+        EVENT: Hear the window
+rattling THOUGHT: It is windy outside FEELING: Slightly irritated BEHAVIOR: Try to tighten the
+window \n\n
+
+        EVENT: Someone is
+approaching in a
+dark, empty street THOUGHT: I am going to get
+mugged FEELING: Terrified BEHAVIOR: Run \n\n
+        EVENT: Someone is
+approaching in a
+dark, empty street THOUGHT: Is that my friend
+Jack? FEELING: Curious, pleased BEHAVIOR: Call Jack’s name \n\n
+        EVENT: My boss is not
+responding to my
+emails THOUGHT: He wants to fire me FEELING: Hopeless BEHAVIOR: Decreased function
+at work \n\n
+    </string>
+    <string name="mod4pt1pg37title">Examples of Overlooked Facts</string>
+    <string name="mod4pt1pg37">Negative Thoughts: It is raining outside and it will be
+so inconvenient to get home. \nOther Possible Facts: Maybe it stopped raining since I
+came in an hour ago.\n\nNegative Thoughts: I am not prepared for my exam
+even though I studied a lot. \n Other Possible Facts: I have read the material, gone to
+class, and done the work. I am as
+ready as I can be.\n\n Negative Thoughts: I will always be alone.\n Other Possible Facts: I have friends and a lot of
+qualities that people like.</string>
+    <string name="mod4pt1pg38title">Exercise 1: </string>
+    <string name="mod4pt1pg38">Lets start with some of your negative thoughts: Is
+there any possibility that you can find other facts
+related to them? More specifically, facts that might
+challenge them?\n\nExample: My boss yelled at me\n
+    Negative Thought: I am a terrible person\n
+        Other Possible Facts: I didn’t do a good job and maybe he was in a bad mood\n\n1)
+    </string>
+    <string name="mod4pt1pg39title">Exercise 2:</string>
+    <string name="mod4pt1pg39">Please explain the circumstances.\n\n
+1) The last time you were very upset\n\nDescription of Event:</string>
+    <string name="mod4pt1pg40title">Exercise 2: Continued</string>
+    <string name="mod4pt1pg40">2) The last time you were very angry\n\nDescription of Event:</string>
+    <string name="mod4pt1pg41title">Exercise 2: Continued</string>
+    <string name="mod4pt1pg41">3) The last time you were very anxious\n\nDescription of Event:</string>
+    <string name="mod4pt1pg42title">Summary</string>
+    <string name="mod4pt1pg42">What I have achieved from this module?\n\n
+        My thoughts might be more responsible for my bad
+feelings than the events.\n\n
+Event --> Thought --> Feeling --> Behavior</string>
+
+
+    <string name="notesEditText">Enter Text</string>
+    <string name="mod5pg1title">Changing Negative Thought Module</string>
+    <string name="mod5pg1">In this module, we will aim to review how one can
+changing their negative thoughts and learn skills and
+methods to identify personal vulnerabilities and help
+with self-esteem.</string>
+    <string name="mod5pg2title">Let’s review some concepts that we have
+learned so far before starting off:</string>
+    <string name="mod5pg2">1) Our thoughts affect our feelings\n\n
+        2) Distorted and negative thoughts\n\n
+        3) The way we can identify negative thoughts
+    </string>
+    <string name="mod5pg3title"></string>
+    <string name="mod5pg3">For changing distorted thoughts, we
+would like to use methods other than
+straight talking.</string>
+    <string name="mod5pg4title">Why do we use other alternatives instead
+of straight talking?</string>
+    <string name="mod5pg4">Sometimes straight talking or personal dialogue may
+be difficult. You may be worn out or unable to identify
+the negative influences of your thinking. You may be
+too tired, too anxious, or too depressed. You may
+also become too bored. It is hard work. Other
+techniques allow you to get a bit of distance, while
+working from a different angle. Remember,
+depending on the user, some techniques work better
+than others.</string>
+    <string name="mod5pg57title">Taking It All Away</string>
+    <string name="mod5pg5">•We take much of what we experience in daily life for
+granted, assuming it will always be there. Depression
+is often the consequence of discounting the positives
+in our lives, not appreciating the sources of rewards
+that are available. Basically it is about paying
+attention to the bad, and not the good in our lives.\n\n•Imagine that everything you have was suddenly taken
+away. What do you want back and why?</string>
+    <string name="mod5pg6">•Imagine there is a supreme being from whom you
+must request the restoration of each person or thing
+that you want back. You do not know how many of
+these requests will be granted. This being has to be
+convinced what you want back is important enough,
+and that you will appreciate it.\n\n•You can imagine this being, talk to him or her and ask
+him to give you back the people and things that have
+been taken away from you. Keep in mind that all of
+your material possessions have been taken away
+along with your family and your job. Now begin by
+asking the supreme (the imaginary one) for one thing
+at a time, and try to convince him that you really want
+it back and could really appreciate it.</string>
+    <string name="mod5pg7">•You should consider this exercise to be invaliding
+because the loss or conflict is (real) to you. Losses or
+conflicts are real, but so everything else that we ask
+you to consider.\n\n•Whether you live out these possibilities or
+experiences in your lives will depend on your ability to
+recognize your role in existence. Consider the fact
+that you are breathing every second. However, you
+almost never notice it.\n\n•Now focus on your breathing and imagine that it was
+taken away for 5 minutes. Obviously you would die. It
+is real, but you did not notice it until you imagined it
+stopping.</string>
+    <string name="mod5pg8title">Exercise 1:</string>
+    <string name="mod5pg8">Consider "What I want back" and "Why is it important to me"</string>
+    <string name="mod5pg9title">Looking At It From The Balcony (technique)</string>
+    <string name="mod5pg9">Remember an event that made you upset. Try to
+examine your experience from third person
+perspective. If you were to step back from the current
+situation and observe yourself (as if you were looking
+down from a balcony), what would you see or think?</string>
+    <string name="mod5pg10title">Example</string>
+    <string name="mod5pg10">Mary and John have been arguing about sharing
+chores at home, both of whom work hard and come
+back exhausted. Marry asked john to wash the
+dishes and he got upset. Let’s look at their argument
+in which John got upset with Mary.</string>
+    <string name="mod5pg11">•John: It was not like she asked me, she ordered me.
+She does not respect me. I felt really upset and
+walked away…\n\n•Right now John imagines that he is watching himself
+and Marry in the kitchen. He can hear everything …\n\n•John: Mary was cooking dinner for a while, she had
+just gotten back from work. I was quiet at dinner.
+After we were finishing the meal, and clearing the
+table, Marry said “your turn to wash the dishes”.\n\n•I can hear it from the balcony… Her voice seemed
+normal. Maybe I was just in a bad mood.</string>
+    <string name="mod5pg12title">Exercise 2:</string>
+    <string name="mod5pg12">Please consider several interactions or problems that
+bother you and imagine looking down on them from a
+balcony. How would you see each situation from the
+balcony(negative thoughts, feelings, etc.), or third-party perspective? What would be
+the advantages of the added balcony?</string>
+    <string name="mod5pg13title">Constructive Alternative</string>
+    <string name="mod5pg13">•Anxious, depressed and angry styles of thinking are
+often characterized by a rigidity or inflexibility that
+locks patients into one response (often maladaptive
+one). Constructive alternatives allow us to consider
+various other thoughts and actions that might mitigate
+our current response.\n\n•Consider the individual who is taking a test, which he
+believes he is going to perform poorly on. Using this
+method, he would consider a number of reasons why
+he might not do well, why the test results are not
+essential to his survival, and what actions he can
+undertake if he does score poorly on the test.</string>
+    <string name="mod5pg14title">Example</string>
+    <string name="mod5pg14">•Ellie: I am concerned that Mike and I might break up.
+I feel hopeless because I rely on him, I could never
+be happy without him. I do not have any alternative
+plans.\n\n•Ellie (after using constructive alternative): hmm
+before I met Mike I saw my friends more often, I
+enjoyed hiking and skiing and exercising. I have
+gained weight in the last 2 months because worrying
+about this relationship. Actually I like my work and I
+like my friends, after we break up I won’t have to
+worry about arguing or what is he is doing. I might be
+sad, but there are alternatives that I would have
+available if Mike were out of the picture.</string>
+    <string name="mod5pg15title">Exercise 3:</string>
+    <string name="mod5pg15">•Let’s start with one of the negative thoughts or fears
+you have. Imagine that this fear actually comes true.
+What kind of thoughts would you have and what
+actions could you take that might lead to positive
+outcomes for you? What could you still do? What
+alternatives are available to you?\n\n•Describe your situation and
+your negative thoughts (your interpretation). Also consider the
+different ways of seeing the current situation
+–different interpretations, behaviors, and
+opportunities you might pursue.</string>
+    <string name="mod5pg16title">Increase Positive Self-Interpretation</string>
+    <string name="mod5pg16">•This technique will also help your self esteem.\n\n
+    •People vulnerable to depression and anxiety often tell
+themselves negative things. You might be used to
+telling yourself how pathetic, miserable, and
+undeserving you are. In this exercise it is time to
+reverse it and credit yourself with some positive
+statement to counteract those negative ones.
+    </string>
+    <string name="mod5pg17title">Example:</string>
+    <string name="mod5pg17">1. Negative) Ellie: I am ugly.\n
+        Positive) I have pretty eyes and shiny hair.\n\n
+        2. Negative) Mark: I am not fast enough.\n
+        Positive) I have been getting faster every week.\n\n
+        3. Negative) John: I am unlovable.\n
+        Positive) My parents and friends love me.
+    </string>
+    <string name="mod5pg18title">Positive Thinking</string>
+    <string name="mod5pg18">•Instructions: On the left hand side of the page there
+are 5 places for you to list negative thoughts. On the
+right hand side, the idea is for you to list replacement
+positive thoughts that you might be able to think of.
+Positive thoughts replace negative ones.\n\n•Don’t think it will work?\n\n•This sort of exercise has been proven to work. Simple
+things sometimes do work. If all else fails, give it a try.
+What’s the worst that can happen?</string>
+    <string name="mod5pg19title">Example:</string>
+    <string name="mod5pg19">1. Negative) I have been lazy this week and have
+not achieved anything.\n
+        Replacement Positive Statement) I have gone to work for two days and
+completed one assignment.\n\n
+        2. Negative) I am useless. I can’t do anything right myself.\n
+        Replacement Positive Statement) I went shopping this week, paid the
+bills, and made cooked for myself.
+    </string>
+    <string name="mod5pg20title">Exercise 4:</string>
+    <string name="mod5pg21title">Looking at Others Coping</string>
+    <string name="mod5pg21">Often times we believe that people who have done worse than
+us are off much worse than we are. In fact, this is often not the
+case. Consider income. We may believe that we need to make a
+certain amount of money in order to have any self-esteem, but
+the fact is that there are millions of people who make less than
+what we do, and yet they feel fine about themselves and enjoy
+many things in their lives. We sometimes focus on how we did
+not measure up to our high standards. When this happens, we
+focus on the negative things. Consider other people who have
+not done as well as you have (or who have experienced a loss
+like you have). What positive reactions do they experience in
+their lives? How have other people thrived? What were they able
+to do that was positive?</string>
+    <string name="mod5pg22title">Example:</string>
+    <string name="mod5pg22">•Ben: I am down on myself because I did not make as much money
+this year as I should have. Many people make less money than I
+do, but I expected to make a lot more. Almost half the people I
+work with make less money than me. Jane makes about half of
+what I make but she enjoys her friends. She has a simple but nice
+apartment and she seems to have an upbeat attitude. She is
+happy because she doesn’t have my expectations. She can teach
+me something about life, how to have fun.\n\n•Rose: I am going through a divorce. I’m a lonely failure. Among my
+friends Larry is divorced and Nina has been through it twice. Well,
+Larry was actually happy to get out of marriage. He complained
+about the financial loss of the divorce, but he’s got his own
+apartment, and he started online dating. What can I learn from
+Larry? He handled the situation very well. He got a good lawyer
+and didn’t sit around. I should do the same things; I should finish
+this divorce, should get out, and start meeting people. If people
+can handle this stuff every day, why can’t I?</string>
+    <string name="mod5pg23title">Exercise 5:</string>
+    <string name="mod5pg23">Please describe the conflict, loss of job, income,
+relationship, rejection or disapproval on which you
+are focused. Then consider any other people you
+know (or have known in the past) who have
+experienced either a similar or more difficult situation
+and coped well in the face of adversity. What could
+be learned from them?</string>
+    <string name="mod5pg24title">Surveying the Scene</string>
+    <string name="mod5pg24">•One additional way to deal with negative thoughts is
+to actually demonstrate that your thoughts are
+misinterpreted. This is what has been called the
+"survey method" by Burns and Zarb.\n\n•How does it work?\n\n•Well, think of the negative interpretations that you
+might have about certain events. You might ask
+whether they are really negative or not. One way to
+find out is to ask others of their interpretations of
+events, and find out if your interpretation of certain
+events is, in fact, faulty or negative.</string>
+    <string name="mod5pg25title">Example:</string>
+    <string name="mod5pg25">1. My View) Intepretation: That\'s unfair and doesn\'t make sense.\n
+        Feeling: Angry\n
+        Behavior: Ignore my wife.\n\n
+    2. Daughter\'s View) Interpretation: My wife was frustrated about arguing with her friend.\n
+        Feeling: Feel sorry for her.\n
+        Behavior: Will try to look after her tomorrow.\n\n
+    3. My friend\'s View) Interpretation: Maybe I was lazy.\n
+        Feeling: Regret\n
+        Behavior: Try to be helpful to my wife.\n\n
+    4. Other friend\'s View) Interpretation: It\'s not personal. Ask my wife is she is alright.\n
+        Feeling: Concern for my wife.\n
+        Behavior: Try to find out what happened. We don\'t normally fight.
+    </string>
+    <string name="mod5pg26title">Exercise 6:</string>
+    <string name="mod5pg26">During the week, find an occasion when you get
+overly upset. Write down the event and your
+interpretation of it. Also take note of
+your consequent behavior. Then ask a few people
+how they would feel about such a situation. Note
+their reactions. Sample at least 3 people for this
+event. Compare your interpretation of the event with
+others that they come up with.</string>
+    <string name="mod5pt2pg1title">Emotional Processing Module</string>
+    <string name="mod5pt2pg1">•Although cognitive behavioral therapy stresses the
+importance of cognition or thoughts in activating or
+maintaining negative mood or anxiety, there is a lot of
+importance in considering the role of emotional
+processing. In this module, we will teach you the
+techniques related to activation of emotion through
+experimental or emotional focused therapy exercises.\n\n•In addition, we will examine how cognitive behavioral
+techniques can be utilized to explore and understand
+how we process and conceptualize emotion.</string>
+    <string name="mod5pt2pg2title">Let’s start with a recent event that made
+you very upset:</string>
+    <string name="mod5pt2pg2">•Think about that event. Certain issues seem to bring
+up specific emotions for you. Let’s stay with these
+issues, try to focus on situations that represent or
+symbolize these issues. Close your eyes and try to
+feel the emotions that come with these memories or
+images.\n\n•As you focus on these emotions, try to notice any
+feelings in your body, notice your breathing, notice
+your physical sensations. Are you noticing any
+feelings? Any thoughts? Any images?</string>
+    <string name="mod5pt2pg3title">Example:</string>
+    <string name="mod5pt2pg3">•John had recently gone through a breakup with his
+girlfriend.\n\n•In addition to being sad, he feels sensations in his
+body, he wants to cry and his heart is racing.\n\n•When he closes his eyes and tries to concentrate on
+his body he feels:\n&#160;&#160;&#160;&#160;&#160;-“...heaviness in my chest and my heart races as if
+I am going to cry. But I do not cry because I would
+look like I lost control and people would think less
+of me. This is the way I feel right now and I cannot
+stand being alone. I want her to come back to me,
+but I have to hide my emotions because it makes
+me look so pathetic.”</string>
+    <string name="mod5pt2pg4title">Exercise 1:</string>
+    <string name="mod5pt2pg4">It is very important to be aware of your emotions.
+They can be any kind of emotions–sad, happy, afraid
+–anything. Try to notice these emotions during the
+week and record them in your emotion log. We can
+use this log later to see the range of feelings you are
+experiencing.</string>
+    <string name="mod5pt2pg5title">Exercise 2: Written Ventilation Technique</string>
+    <string name="mod5pt2pg5">•In free expression of emotion, recall a troubling event
+and write down a detailed description of it, paying
+close attention to the emotions that surface and what
+it meant to you. The immediate effect could lead to an
+increase in negative feelings. As the negative events
+and the memories become more noticeable, there is
+often a decrease in negativity and a reduction in
+stress within days or weeks.\n\n•I’d like you to think back about the event that
+bothered you so much. Try to get a very clear
+recollection of the event and the experience you had.
+You could take about 20 min and write down all of
+your thoughts and feelings about the event.</string>
+    <string name="mod5pt2pg6title">Describe your memory of your story in as much detail as you can…</string>
+    <string name="mod5pt2pg6">What feelings or emotions did you experience in this story?\n\n
+What thoughts do you have looking back at this story?\n\n
+What parts of this story - what memories - were the most painful?\n\n
+How do you feel after writing down this story?
+    </string>
+    <string name="mod5pt2pg7">As we remember things that happen, we often hone
+in on specific details, and specific things that made us
+laugh or made us upset.</string>
+    <string name="mod5pt2pg8title">Hot Spots</string>
+    <string name="mod5pt2pg8">•As you recall your painful story or images, try to
+notice if any specific details or parts of the story is
+especially difficult for you. Notice if there is any
+change in your emotions as you might become more
+upset with a specific image or detail. You might even
+find yourself “spacing out” on a specific detail.
+Perhaps one that is too difficult to pay attention to.\n\n•As you repeat that detail or image, ask yourself what
+about it is especially upsetting. What thoughts do
+these details generate? What feelings?</string>
+    <string name="mod5pt2pg9title">Exercise 3:</string>
+    <string name="mod5pt2pg9">Write down a memory of a traumatic or upsetting
+event in as much detail as possible. Read the story
+several times, noting parts that are most upsetting,
+then go back over these most upsetting parts and
+write down any feelings or thoughts that these hot
+spots bring on.</string>
+    <string name="mod5pt2pg10title">Exercise 3: Continued</string>
+    <string name="mod5pt2pg10">Describe the story or image in as much detail as you can.\n\n
+        Which specific parts are the most upsetting?\n\n
+        What feelings and thoughts do you have at these hot spots?
+    </string>
+    <string name="mod5pt2pg11title">Identifying Emotional Schema</string>
+    <string name="mod5pt2pg11">When we feel anxious, sad, angry, or confused, we
+may have different thoughts. For example, some
+people may believe that these feelings will last a long
+time, whereas others believe they are temporary.
+Some people believe that they should not have
+certain feelings, whereas others accept these
+feelings.</string>
+    <string name="mod5pt2pg12title">Example:</string>
+    <string name="mod5pt2pg12">Mary: I notice that I get upset about being anxious
+especially when I am breathing rapidly and my heart
+is pounding. It feels like I am losing control. To avoid
+losing control, I try to take a deep breath. Then, I
+think to myself: “I should not feel this way, I am an
+intelligent and rational person. I am in a relationship
+and I am doing well at work. I should not be so
+anxious. I think that people see me as very organized
+and on top of things, but they don’t know that I feel
+this way.”</string>
+    <string name="mod5pt2pg13">The goal of this section is to identify and correct
+these kinds of emotional schemas (the way we view
+our emotions), and to help you experience and
+accept these emotions.</string>
+    <string name="mod5pt2pg14title">Exercise 4:</string>
+    <string name="mod5pt2pg14">•We are interested in how you deal with your feelings or
+emotions. For example, how you deal with anger, sadness,
+anxiety, or sexual feelings. We all differ in how we deal with
+these feelings. There are no right or wrong answers. Please
+read each sentence carefully and rate it, (using the scale below)
+as how you have dealt with your feelings during the past month.
+Put the number of your response next to the sentence.\n\n
+        1=very untrue\n
+        2=somewhat untrue\n
+        3=slightly untrue\n
+        4=slightly true\n
+        5=somewhat true\n
+        6=very true
+    </string>
+    <string name="mod5pt2pg15title">Imagery Rescripting Technique</string>
+    <string name="mod5pt2pg15">A traumatic experience may persist in memory for
+years, resulting in stress, anxiety, and lowered
+immunity. Attempting to modify traumatic images by
+relying solely on verbal disputation may not
+adequately activate the fear structure and provide
+you with a powerful enough encounter to the thoughts
+and feelings contained in the image.</string>
+    <string name="mod5pt2pg16">The imagery rescripting technique lets you recreate
+your story in detail, so you can change the nature of
+the original traumatic event. It helps activate a
+stronger, more competent emotional component of
+the self that counters the defeated and victimized
+weaker self.</string>
+    <string name="mod5pt2pg17title">Example</string>
+    <string name="mod5pt2pg17">•Bruce: I have a memory of my abusive and aggressive father. He used
+to beat me and lock me in the basement. He was a piece of shit and I
+felt weak and I thought that no one cared about me. My father was
+always drunk and there was no escaping him.\n\n•We ask Bruce to imagine his father to be really small, about 2 feet high
+and that he has a tiny, high–pitched voice. We can then ask Bruce
+imagine himself big, strong, and ferocious, clench his fists, and see
+himself towering over his father.\n\n•Bruce: I can see him as a little midget with the squeaky voice,
+screaming at me because I am not doing what I am supposed to be
+doing.</string>
+    <string name="mod5pt2pg18title">Example: Continued</string>
+    <string name="mod5pt2pg18">•We ask Bruce to tell his father why he is nothing compare to
+Bruce.\n\n•Bruce: You are just a drunk, a failure and a lousy father. I went
+to college but not thanks to you.\n\n•I raised a kid and I am a decent person, while you are nobody.\n\n
+    •We ask Bruce to tell his father what he will do if his father hits
+him again.\n\n•Bruce: I will kill you, I will throw you out of the window.
+    </string>
+    <string name="mod5pt2pg20title">Exercise 5:</string>
+    <string name="mod5pt2pg20">•Please recall a former traumatic experience and write down the
+details of it. Then imagine yourself in a new reencounter as a
+strong, confident, aggressive, and confrontational.\n\n•When you initially experienced a trauma or stressful event, you
+may have viewed the other person as superior or more powerful.
+Write down a detailed description of
+what happened, what other person or event looked like,
+sounded like, said, did, ect. Rewrite
+the story. This time you are more powerful, while the other
+person is weak and scared. You are bigger, while the other
+person is smaller. You are the one in control while the other is
+afraid. Rewrite the story in a way that is going to make you the
+dominate one. Then write your thoughts and feelings about
+doing this exercise</string>
+    <string name="neg_thoughts">How I currently see what is going on (negative thoughts, feelings, etc.)</string>
+    <string name="persp">How I might see it from a third-party perspective.</string>
+    <string name="the_situation_bothering_you">The situation bothering you.</string>
+    <string name="the_negative_thoughts">The negative thoughts?</string>
+    <string name="dexcribe">Describe views of this situation. (new opportunities, possibilities)</string>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tinnicure">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Module1Selection" />
+        <activity android:name=".Module1Part1" />
+        <activity android:name=".Module2" />
+        <activity android:name=".Module2Homework" />
+        <activity android:name=".Module6" />
+        <activity android:name=".Module8" />
+        <activity android:name=".Module1Homework" />
+        <activity android:name=".MindfulBreathing" />
+        <activity android:name=".Module1Part2" />
+        <activity android:name=".Module3Selection" />
+        <activity android:name=".Module3Part1" />
+        <activity android:name=".Module4Selection" />
+        <activity android:name=".Module4Part1" />
+        <activity android:name=".Module5Selection" />
+        <activity android:name=".Module5Part1" />
+        <activity android:name=".Module3Part2" />
+        <activity android:name=".Module4Part2"></activity>
+    </application>
+
+</manifest>

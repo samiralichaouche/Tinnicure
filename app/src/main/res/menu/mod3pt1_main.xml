@@ -1,0 +1,173 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tinnicure.Module3Part1">
+
+    <item
+        android:id="@+id/home_page"
+        android:orderInCategory="100"
+        android:title="Menu"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/house"/>
+    <item
+        android:id="@+id/Page1"
+        android:orderInCategory="101"
+        android:title="       Page 1 out of 26"
+
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page2"
+        android:orderInCategory="102"
+        android:title="       Page 2 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page3"
+        android:orderInCategory="103"
+        android:title="       Page 3 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page4"
+        android:orderInCategory="104"
+        android:title="       Page 4 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page5"
+        android:orderInCategory="105"
+        android:title="       Page 5 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page6"
+        android:orderInCategory="106"
+        android:title="       Page 6 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page7"
+        android:orderInCategory="107"
+        android:title="       Page 7 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page8"
+        android:orderInCategory="108"
+        android:title="       Page 8 out of 26"
+
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page9"
+        android:orderInCategory="109"
+        android:title="       Page 9 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page10"
+        android:orderInCategory="110"
+        android:title="       Page 10 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page11"
+        android:orderInCategory="111"
+        android:title="       Page 11 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page12"
+        android:orderInCategory="112"
+        android:title="       Page 12 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page13"
+        android:orderInCategory="113"
+        android:title="       Page 13 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page14"
+        android:orderInCategory="114"
+        android:title="       Page 14 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page15"
+        android:orderInCategory="115"
+        android:title="       Page 15 out of 26"
+
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page16"
+        android:orderInCategory="116"
+        android:title="       Page 16 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page17"
+        android:orderInCategory="117"
+        android:title="       Page 17 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page18"
+        android:orderInCategory="118"
+        android:title="       Page 18 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page19"
+        android:orderInCategory="119"
+        android:title="       Page 19 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page20"
+        android:orderInCategory="120"
+        android:title="       Page 20 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page21"
+        android:orderInCategory="121"
+        android:title="       Page 21 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page22"
+        android:orderInCategory="122"
+        android:title="       Page 22 out of 26"
+
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page23"
+        android:orderInCategory="123"
+        android:title="       Page 23 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page24"
+        android:orderInCategory="124"
+        android:title="       Page 24 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page25"
+        android:orderInCategory="125"
+        android:title="       Page 25 out of 26"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/Page26"
+        android:orderInCategory="126"
+        android:title="       Page 26 out of 26"
+        app:showAsAction="never"
+        />
+
+</menu>

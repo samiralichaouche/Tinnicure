@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.tinnicure.Main2Activity">
+    <item
+        android:id="@+id/home_page"
+        android:orderInCategory="100"
+        android:title="Main Menu"
+        app:showAsAction="ifRoom|withText"
+        android:icon="@drawable/house"/>
+</menu>
